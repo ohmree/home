@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/amino/Downloads/wal/autoload'
+let g:netrw_dirhist_2='/home/amino/Downloads/wal/autoload/airline'
+let g:netrw_dirhist_3='/home/amino/Downloads/wal/autoload/airline/themes'
+let g:netrw_dirhist_4='/home/amino/Downloads/wal/autoload/airline'
+let g:netrw_dirhist_5='/home/amino/.config/bspwm'
